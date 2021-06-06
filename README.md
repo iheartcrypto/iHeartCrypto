@@ -2,9 +2,10 @@
 
 <!--
 **iheartcrypto/iHeartCrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 
 -
+-                                                                           INTRODUCING:
 -
--   
 - /$$ /$$   /$$                                 /$$      /$$$$$$                                  /$$              
 -|__/| $$  | $$                                | $$     /$$__  $$                                | $$              
 - /$$| $$  | $$  /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$  | $$  \__/  /$$$$$$  /$$   /$$  /$$$$$$  /$$$$$$    /$$$$$$ 
@@ -14,42 +15,26 @@
 -| $$| $$  | $$|  $$$$$$$|  $$$$$$$| $$        |  $$$$/|  $$$$$$/| $$      |  $$$$$$$| $$$$$$$/  |  $$$$/|  $$$$$$/
 -|__/|__/  |__/ \_______/ \_______/|__/         \___/   \______/ |__/       \____  $$| $$____/    \___/   \______/ 
 -                                                                           /$$  | $$| $$                          
--                                                                          |  $$$$$$/| $$                          
--                                                                           \______/ |__/                          
--
--IHC/KCW is a new approach to cryptocurrency payments systems. 
--IHC/KCW seeks to collaborate with the gitHub community to develop 
--payment systems designed for the mass adoption of cryptocurrency. 
--User-friendly, approachable QR codes on retail placards, signage, 
--and even wearables such as buttons and even send-to QR codes printed
--on iconic apparel that essentially shouts shouts 
--"I Accept Crypto! - It's EASY! - TRY!"
--
-- 🔭 I’m currently working on IHC/KCW Payments Systems + Interactive Apparel, 
-- 🔭 ....+Retail-Signage &  placards. That says HEY! That looks friendly! 
-- 🔭 ......."today will be my first time this "crypto" that
-- 🔭 ............everyone is talking about, for the last few years.
-- 
-- 🌱 I’m currently learning LOTS!
--
-- 👯 I’m looking to collaborate on what's possible to bring
-- 👯 Crypto into mainstream adoption.
--
-- 🤔 I’m looking for help with coding & logistics. 
-- 🤔 And why git is calling my repo ^ "special" idk?
--
-- 💬 Ask me about my German Shepherd/Belgian Malinois: 
-- 💬 "Monkey" She Crazy AF. I <3 my "M.O.-dog."
--
-- 📫 How to reach me: iHeartCrypto@gmail.com
-- 😄 Pronouns: Any Will Do. #Thickskin #Progressive #tollerance & #understanding
-- ⚡ Fun fact: I prefer to remain pseudo anonomous. I go by "oG" - full pseudo is [redacted] because:
-- ⚡ Alter Egos are fun. Mysterious. Banksy, Satoshi. I <3 Weird. #keepcryptoweird.
-- ⚡ANOTHER: "fun fact" i've spent decades as a professional artist - I started with a CC 
-- ⚡proccessing machine that had to be plugged into a land line to "batch out" dayly sales.
-- ⚡Then the portable CC machines "Eureka!" expensive, fragile for traveling salespersons like myself
-- ⚡but it was a revolution. Not everyone on the street circuit had one - the hardware, monthly serice
-- ⚡fees etc made them not 100% adopted by small & micro-business
+-           iHeartCrypto.dev|.app                                          |  $$$$$$/| $$                          
+-                                   _____ _         _       _       _       \______/ |__/                                                                                       -                                  | __  | |___ ___| |_ ___| |_ ___|_|___ 
+-                                  | __ -| | . |  _| '_|  _|   | .'| |   |
+-                                  |_____|_|___|___|_,_|___|_|_|__,|_|_|_|                                        
+                                               ________                                      _____        
+                                               ___  __ \_____ _____  ________ _________________  /________
+                                               __  /_/ /  __ `/_  / / /_  __ `__ \  _ \_  __ \  __/_  ___/
+                                               _  ____// /_/ /_  /_/ /_  / / / / /  __/  / / / /_ _(__  ) 
+                                                /_/     \__,_/ _\__, / /_/ /_/ /_/\___//_/ /_/\__/ /____/  
+                                                              /____/                 
+                                                                            ______    ______
+                                                                    MADE:  |  ____|  |___  /
+                                                                           | |__ ______ / / 
+                                                                           |  __|______/ /  
+                                                                           | |____    / /__ 
+ iheartcrypto.ltd | iheartcrypto.移动 | iheartcrypto.jp                    |______|  /_____|   
+ iheartcrypto.uk | iheartkrypto.de | Just to name a few......
+
+
+
 -
 -
 -
