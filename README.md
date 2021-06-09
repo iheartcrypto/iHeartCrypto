@@ -31,7 +31,7 @@
                                                                            |  __|______/ /  
                                                                            | |____    / /__ 
  iheartcrypto.ltd | iheartcrypto.移动 | iheartcrypto.jp                    |______|  /_____|   
- iheartcrypto.uk | iheartkrypto.de | Just to name a few......
+ iheartcrypto.uk | iheartkrypto.de | 
 
 
 
